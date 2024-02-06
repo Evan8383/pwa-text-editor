@@ -24,7 +24,7 @@ export const putDb = async (content) => {
 };
 
 export const getDb = async () => {
-  console.error('GET request sent to database');
+  console.log('GET request sent to database');
   const db = await openDB('jate', 1);
   const tx = db.transaction('jate', 'readonly');
   const store = tx.objectStore('jate');
