@@ -4,7 +4,7 @@
 PWA Text Editor is a Progressive Web Application (PWA) designed to provide a simple and efficient text editing experience directly from your web browser. It allows users to create, edit, and save text documents seamlessly, with the added functionality of offline access and installability on supported devices.
 
 ## Important links
-Live application:
+Live application: https://pwa-text-editor-2024-77731c50b699.herokuapp.com/
 GitHub Repository: https://github.com/Evan8383/pwa-text-editor
 
 ## Features:
